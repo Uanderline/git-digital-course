@@ -2,4 +2,4 @@
 
 ## Salvando alterações no git
 
-* uso do git restore
+*Comando git push
